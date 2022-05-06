@@ -14,6 +14,7 @@ myImage.onclick = function () {
 let myButton = document.querySelector('button');
 let myHeading = document.querySelector('h1');
 
+/*
 function setUserName() {
     let myName = prompt('あなたの名前を入力してください。');
     if (!myName) {
@@ -37,3 +38,4 @@ else{
 myButton.onclick = function () {
     setUserName();
 }
+*/
